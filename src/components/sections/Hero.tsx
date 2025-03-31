@@ -66,7 +66,7 @@ export default function Hero() {
               className="mb-6 inline-block"
             >
               <span className="bg-[#E02AA4]/10 text-[#E02AA4] px-4 py-1.5 rounded-full text-sm font-medium">
-                Employee Engagement Made Simple (#1 APP)
+                Employee Engagement Made Simple (#1 APP OUT THERE)
               </span>
             </motion.div>
 
