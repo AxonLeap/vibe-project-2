@@ -51,7 +51,6 @@ export default function Home() {
       <Features />
       <HowItWorks />
       <Stats />
-      <Testimonials />
       <Integration />
       <Pricing />
       <Faq />
